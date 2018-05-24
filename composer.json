@@ -1,0 +1,16 @@
+{
+    "name": "shiros/test",
+    "description": "ShirOS Test Composer",
+    "keywords": ["ShirOS", "Test"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Caillot (Shiroe_sama)",
+            "email": "pro.casper805@sfr.fr"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3"
+    }
+}
